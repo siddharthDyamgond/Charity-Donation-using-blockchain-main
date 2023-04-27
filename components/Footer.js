@@ -76,7 +76,7 @@ export default function Footer() {
               zIndex: -1,
             }}
           >
-            <NextLink href="/">🤝SecureFund</NextLink>
+            <NextLink href="/">🤝SecureDonation</NextLink>
           </Box>
         </Heading>
         <Stack direction={"row"} spacing={6}>
