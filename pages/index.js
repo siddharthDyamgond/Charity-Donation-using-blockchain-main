@@ -227,7 +227,7 @@ export default function Home({ campaigns }) {
   return (
     <div>
       <Head>
-        <title>SecureFund</title>
+        <title>SecureDonation</title>
         <meta
           name="description"
           content="Transparent Crowdfunding in Blockchain"
@@ -302,7 +302,7 @@ export default function Home({ campaigns }) {
           <HStack spacing={2}>
             <SkeletonCircle size="4" />
             <Heading as="h2" size="lg">
-              How SecureFund Works
+              How SecureDonation Works
             </Heading>
           </HStack>
           <Divider marginTop="4" />
